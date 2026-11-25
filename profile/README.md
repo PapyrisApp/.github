@@ -12,8 +12,7 @@
 <p align="center">
   <a href="https://www.papyrisapp.com">Website</a> ·
   <a href="https://www.papyrisapp.com/pricing">Pricing</a> ·
-  <a href="https://www.papyrisapp.com/help">Help center</a> ·
-  <a href="https://www.instagram.com/papyriscrm/">Instagram</a>
+  <a href="https://www.papyrisapp.com/help">Help center</a>
 </p>
 
 ---
